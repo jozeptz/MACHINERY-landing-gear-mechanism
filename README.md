@@ -6,11 +6,11 @@
 - **Problem / purpose:** To design and analyze an aircraft landing gear mechanism that converts linear actuator motion into rotational movement for controlled extension and retraction.
 - **Team:** ลอกการบ้าน
 
-| Name | Responsibility |
-|---|---|
-| Teerawat Janyasettakul | Digital Model |
-| Pacharadanai Siwamok | Symbolic Analysis |
-| Pontagorn Srivichai | Physical Prototype |
+| ID | Name | Responsibility |
+|---|---|---|
+| 6730252621 | Teerawat Janyasettakul | Digital Model |
+| 6730335021 | Pacharadanai Siwamok | Symbolic Analysis |
+| 6730337321 | Pontagorn Srivichai | Physical Prototype |
 
 - **Status:** Working
 - **Last updated:** 2026-11-12
