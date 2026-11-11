@@ -12,11 +12,16 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 ## Project overview
 
-- **Project name:** [Enter project name]
-- **Problem / purpose:** [Describe the engineering need]
-- **Team:** [Names and responsibilities]
-- **Status:** Planning
-- **Last updated:** [YYYY-MM-DD]
+- **Project name:** [Landing Gear Mechanism]
+- **Problem / purpose:** [Aircraft landing gear must be able to extend and retract reliably during different phases of flight. This project focuses on developing and analyzing a mechanical landing gear mechanism that converts linear actuator motion into rotational movement to achieve controlled landing gear deployment and retraction.]
+- **Team: ลอกการบ้าน**
+| Name | Responsibility |
+|---|---|
+| Teerawat Janyasettakul | Digital Model |
+| Pacharadanai Siwamok | Symbolic Analysis |
+| Pontagorn Srivichai | Physical Prototype |
+- **Status:** Working
+- **Last updated:** [2026-11-12]
 
 ## Repository structure
 
