@@ -1,4 +1,4 @@
-# Mechanical Engineering Project Template
+# Mechanical Engineering Project
 
 ## Project Overview
 
