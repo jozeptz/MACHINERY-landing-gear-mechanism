@@ -10,18 +10,20 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 4. Create GitHub Issues for tasks and record important design decisions and test results.
 5. Check the license placeholder and select appropriate terms before sharing or reusing project work.
 
-## Project overview
+## Project Overview
 
-- **Project name:** [Landing Gear Mechanism]
-- **Problem / purpose:** [Aircraft landing gear must be able to extend and retract reliably during different phases of flight. This project focuses on developing and analyzing a mechanical landing gear mechanism that converts linear actuator motion into rotational movement to achieve controlled landing gear deployment and retraction.]
-- **Team: ลอกการบ้าน**
+- **Project name:** Landing Gear Mechanism
+- **Problem / purpose:** To design and analyze an aircraft landing gear mechanism that converts linear actuator motion into rotational movement for controlled extension and retraction.
+- **Team:** ลอกการบ้าน
+
 | Name | Responsibility |
 |---|---|
 | Teerawat Janyasettakul | Digital Model |
 | Pacharadanai Siwamok | Symbolic Analysis |
 | Pontagorn Srivichai | Physical Prototype |
+
 - **Status:** Working
-- **Last updated:** [2026-11-12]
+- **Last updated:** 2026-11-12
 
 ## Repository structure
 
