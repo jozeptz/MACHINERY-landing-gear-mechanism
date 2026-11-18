@@ -1,2 +1,8 @@
 item,description,manufacturer,part_number,quantity,unit,unit_cost,currency,supplier,url,notes
-1,[Component or material],[Manufacturer],[Part number],1,pcs,,,[Supplier],,[Specification or selection note]
+1,PLA filament for all printed links and parts,[Filament brand],[Filament part number],[total grams used],g,,THB,[Supplier],,Printed on Creality K1 with 0.4 mm nozzle; record color and diameter (1.75 mm)
+2,Printed links (landing gear four-bar linkage),In-house (3D printed),[CAD part names],[number of links],pcs,,THB,In-house,,PLA; files in hardware/mechanical/
+3,Printed piston-cylinder actuator (cylinder and rod),In-house (3D printed),[CAD part names],[number of parts],pcs,,THB,In-house,,PLA; hand-actuated; no motor
+4,M3 brass pin for revolute joint,[Manufacturer],[Part number],[number of joints],pcs,,THB,[Supplier],,Pressed into one link; specify length [mm]
+5,M3 screw for fork link,[Manufacturer],[Part number],[2 per fork joint],pcs,,THB,[Supplier],,Fitted on both sides of the fork link; specify length [mm] and head type
+6,Acrylic backboard 210 x 297 mm x 5 mm,[Manufacturer],,1,pcs,,THB,[Supplier],,A4 size; 5 mm thick; wall-mounted base for the model; note drilled hole positions
+7,[Wall-mounting hardware or standoffs],[Manufacturer],[Part number],[quantity],pcs,,THB,[Supplier],,Delete this row if not used
