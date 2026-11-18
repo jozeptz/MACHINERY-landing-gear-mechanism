@@ -1,12 +1,12 @@
 item,description,manufacturer,part_number,quantity,unit,unit_cost,currency,supplier,url,notes
-1,Actuator cylinder barrel,In-house (3D printed),actuator_cylinder_barrel,1,pcs,,THB,In-house,,PLA; printed on Creality K1 with 0.4 mm nozzle
-2,Actuator pedestal,In-house (3D printed),actuator_pedestal,1,pcs,,THB,In-house,,PLA; mounts the actuator to the backboard
+1,Actuator cylinder barrel,In-house (3D printed),actuator_cylinder_barrel,1,pcs,,THB,In-house,,PLA
+2,Actuator pedestal,In-house (3D printed),actuator_pedestal,1,pcs,,THB,In-house,,PLA
 3,Actuator piston rod,In-house (3D printed),actuator_piston_rod,1,pcs,,THB,In-house,,PLA
 4,Bell crank,In-house (3D printed),bell_crank,1,pcs,,THB,In-house,,PLA
-5,Bracket O2,In-house (3D printed),bracket_O2,1,pcs,,THB,In-house,,PLA; fixed pivot O2 on the backboard
-6,Bracket O4,In-house (3D printed),bracket_O4,1,pcs,,THB,In-house,,PLA; fixed pivot O4 on the backboard
+5,Bracket O2,In-house (3D printed),bracket_O2,1,pcs,,THB,In-house,,PLA
+6,Bracket O4,In-house (3D printed),bracket_O4,1,pcs,,THB,In-house,,PLA
 7,Coupler,In-house (3D printed),coupler,1,pcs,,THB,In-house,,PLA
 8,Strut wheel,In-house (3D printed),strut_wheel,1,pcs,,THB,In-house,,PLA
-9,Backboard (acrylic 5 mm),Unknown,,1,pcs,THB,MI room,,Acrylic; 210 x 297 mm (A4); 5 mm thick; wall-mounted base
-10,M3 brass pin (revolute joint),Unknown,[Part number],6,pcs,THB,Ajarn,Pressed into one link; specify length [mm]
-11,M3 screw (revolute joint at fork link),Unknown,[Part number],12,pcs,THB,MI room,,Both sides of the fork link; specify length [mm] and head type
+9,Backboard (acrylic 5 mm),Unknown,,1,pcs,,THB,MI room,,Acrylic; 210 x 297 mm (A4); 5 mm thick; wall-mounted base
+10,M3 brass pin (revolute joint),Unknown,,6,pcs,,THB,Ajarn,,Pressed into one link; specify length [mm]
+11,M3 screw (revolute joint at fork link),Unknown,,12,pcs,,THB,MI room,,Both sides of the fork link; specify length [mm] and head type
