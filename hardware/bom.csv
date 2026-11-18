@@ -7,6 +7,6 @@ item,description,manufacturer,part_number,quantity,unit,unit_cost,currency,suppl
 6,Bracket O4,In-house (3D printed),bracket_O4,1,pcs,,THB,In-house,,PLA; fixed pivot O4 on the backboard
 7,Coupler,In-house (3D printed),coupler,1,pcs,,THB,In-house,,PLA
 8,Strut wheel,In-house (3D printed),strut_wheel,1,pcs,,THB,In-house,,PLA
-9,Backboard (acrylic 5 mm),[Unknown],,1,pcs,,THB,[MI room],,Acrylic; 210 x 297 mm (A4); 5 mm thick; wall-mounted base
-10,M3 brass pin (revolute joint),[Unknown],[Part number],[6],pcs,,THB,[MI room],,Pressed into one link; specify length [mm]
-11,M3 screw (revolute joint at fork link),[Unknown],[Part number],[12],pcs,,THB,[Ajarn],,Both sides of the fork link; specify length [mm] and head type
+9,Backboard (acrylic 5 mm),Unknown,,1,pcs,,THB,[MI room],,Acrylic; 210 x 297 mm (A4); 5 mm thick; wall-mounted base
+10,M3 brass pin (revolute joint),Unknown,[Part number],6,pcs,,THB,MI room,,Pressed into one link; specify length [mm]
+11,M3 screw (revolute joint at fork link),Unknown,[Part number],12,pcs,,THB,Ajarn,,Both sides of the fork link; specify length [mm] and head type
