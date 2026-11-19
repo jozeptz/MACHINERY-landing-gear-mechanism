@@ -1,4 +1,4 @@
-# EXP02: Actuator stroke vs strut wheel angle
+# Experiment: Actuator stroke vs strut wheel angle
 
 ## Objective
 
