@@ -83,12 +83,12 @@ The piston (point B) slides inside the cylinder barrel. It is a prismatic joint,
 
 ### 6.2 Steps
 
-1. **Fix the brackets to the backboard.** Mount bracket O2, the strut pivot bracket (O6) and the actuator pedestal (O4) on the acrylic backboard in the positions from the CAD. Check the distances against the drawing with a caliper. Do not fully tighten until the linkage has been assembled and moves freely. Photo: `media/[step1].jpg`
-2. **Press the pins.** Press an M3 brass pin into the link that carries it, for each joint. Press straight and slowly until it is seated, with equal length protruding on the free side if the joint requires it. Photo: `media/[step2].jpg`
-3. **Join the links.** Place the fork link over the pin and fit an M3 screw on each side. Tighten until snug, then back off a quarter turn if the joint does not turn freely. Repeat for each joint. Photo: `media/[step3].jpg`
+1. **Fix the brackets to the backboard.** Mount bracket O2, the strut pivot bracket (O6) and the actuator pedestal (O4) on the acrylic backboard in the positions from the CAD. Check the distances against the drawing with a caliper. Do not fully tighten until the linkage has been assembled and moves freely. 
+2. **Press the pins.** Press an M3 brass pin into the link that carries it, for each joint. Press straight and slowly until it is seated, with equal length protruding on the free side if the joint requires it. 
+3. **Join the links.** Place the fork link over the pin and fit an M3 screw on each side. Tighten until snug, then back off a quarter turn if the joint does not turn freely. Repeat for each joint.
 4. **Assemble the four-bar linkage.** Fit the bell crank on the left bracket (J1), the coupler on the bell crank (J2), the coupler on the strut wheel (J3), and the strut wheel on the right bracket (J4). Check that each joint rotates by hand.
 5. **Check clearances.** The strut wheel must clear the backboard and the brackets through the full motion.
-6. **Assemble the actuator.** Insert the piston rod into the cylinder barrel, attach the barrel to the actuator pedestal (J6), and connect the rod end to the bell crank (J5). Photo: `media/[step6].jpg`
+6. **Assemble the actuator.** Insert the piston rod into the cylinder barrel, attach the barrel to the actuator pedestal (J6), and connect the rod end to the bell crank (J5).
 7. **Final tightening.** Move the mechanism through its full range, then tighten the bracket and pedestal fixings.
 
 ## 7. Setup and check-out
@@ -105,8 +105,6 @@ The piston (point B) slides inside the cylinder barrel. It is a prismatic joint,
 3. The bell crank turns and drives the linkage, and the strut wheel moves to the gear-down position.
 4. Reverse the rod motion to return to the start position.
 5. Move gently at the end positions. Do not force the rod past the end of its travel.
-
-Operating range: [rod stroke in mm], [angle range in degrees]. Demonstration video: `media/Physical Prototype`
 
 ## 9. Troubleshooting
 
@@ -131,4 +129,3 @@ Operating range: [rod stroke in mm], [angle range in degrees]. Demonstration vid
 - **Lubrication:** usually not needed. If friction is high, use a trace of dry lubricant such as PTFE spray. Avoid oil, which attracts dust and can attack PLA.
 - **Storage:** keep away from heat (above about 50 degrees C PLA softens) and direct sunlight. Store flat or hung.
 - **Spare parts:** keep the CAD and STL files in `hardware/mechanical/` so any part can be reprinted.
-
