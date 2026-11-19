@@ -68,16 +68,16 @@ Full details are in `hardware/bom.csv`.
 
 Each revolute joint follows the same three-step method: press the brass pin into one link, fit the mating link (fork link) over the pin, and fix it with an M3 screw on both sides.
 
-### 6.1 Joint-to-parts table (fill in)
+### 6.1 Joint-to-parts table 
 
 | Joint | Connects | Pin pressed into | Fork link |
 |---|---|---|---|
-| J1 | O2: left bracket - link 2 (bell crank) | [part] | [part] |
-| J2 | E: link 2 (bell crank) - link 5 (coupler) | [part] | [part] |
-| J3 | [label]: link 5 (coupler) - link 6 (strut wheel) | [part] | [part] |
-| J4 | O6: right bracket - link 6 (strut wheel) | [part] | [part] |
-| J5 | C: link 2 (bell crank) - link 3 (piston rod) | [part] | [part] |
-| J6 | O4: actuator pedestal - link 4 (cylinder barrel) | [part] | [part] |
+| J1 | O2: left bracket - link 2 (bell crank) | 2 | 1(O2) |
+| J2 | E: link 2 (bell crank) - link 5 (coupler) | 2 | 5 |
+| J3 | F: link 5 (coupler) - link 6 (strut wheel) | 6 | 2 |
+| J4 | O6: right bracket - link 6 (strut wheel) | 6 | 1(O6) |
+| J5 | C: link 2 (bell crank) - link 3 (piston rod) | 3 | 2 |
+| J6 | O4: actuator pedestal - link 4 (cylinder barrel) | 4 | 1(O4) |
 
 The piston (point B) slides inside the cylinder barrel. It is a prismatic joint, so it has no pin or screw.
 
@@ -100,13 +100,13 @@ The piston (point B) slides inside the cylinder barrel. It is a prismatic joint,
 
 ## 8. Operation
 
-1. Start from the [retracted / gear-up] position.
-2. Push (or pull) the actuator piston rod slowly and steadily by hand.
-3. The bell crank turns and drives the linkage, and the strut wheel moves to the [extended / gear-down] position.
+1. Start from the gear-up position.
+2. Push the actuator piston rod slowly and steadily by hand.
+3. The bell crank turns and drives the linkage, and the strut wheel moves to the gear-down position.
 4. Reverse the rod motion to return to the start position.
 5. Move gently at the end positions. Do not force the rod past the end of its travel.
 
-Operating range: [rod stroke in mm], [angle range in degrees]. Demonstration video: `media/[Mechanism].avi`
+Operating range: [rod stroke in mm], [angle range in degrees]. Demonstration video: `media/Physical Prototype`
 
 ## 9. Troubleshooting
 
@@ -132,20 +132,3 @@ Operating range: [rod stroke in mm], [angle range in degrees]. Demonstration vid
 - **Storage:** keep away from heat (above about 50 degrees C PLA softens) and direct sunlight. Store flat or hung.
 - **Spare parts:** keep the CAD and STL files in `hardware/mechanical/` so any part can be reprinted.
 
-## 11. Photographs and diagrams
-
-| Figure | File | Shows |
-|---|---|---|
-| 1 | `media/[overview].jpg` | Finished model on the wall |
-| 2 | `media/[exploded].jpg` | All parts laid out |
-| 3 | `media/[step1].jpg` | Brackets and pedestal on the backboard |
-| 4 | `media/[step2].jpg` | Pin pressed into a link |
-| 5 | `media/[step3].jpg` | Fork link with screws on both sides |
-| 6 | `media/[retracted].jpg` | Retracted (gear-up) position |
-| 7 | `media/[extended].jpg` | Extended (gear-down) position |
-
-## 12. Revision history
-
-| Version | Date | Author | Changes |
-|---|---|---|---|
-| 1.0 | 2026-11-19 | Gun | First version of assembly, setup, operation, troubleshooting and maintenance guide |
