@@ -12,8 +12,8 @@
 | 6730335021 | Pacharadanai Siwamok | Symbolic Analysis |
 | 6730337321 | Pontagorn Srivichai | Physical Prototype |
 
-- **Status:** Working
-- **Last updated:** 2026-11-12
+- **Status:** FINSIHED
+- **Last updated:** 2026-11-22
 
 ## Repository structure
 
